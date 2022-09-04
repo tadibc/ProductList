@@ -1,0 +1,4 @@
+#Sun Sep 04 08:57:55 BDT 2022
+base.0=C\:\\Users\\tadib\\Desktop\\ProductList\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
